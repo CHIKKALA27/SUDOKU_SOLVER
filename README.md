@@ -1,5 +1,11 @@
 # SUDOKU_SOLVER
-  #include <iostream>
+/*
+NAME                                                     : PREM KUMAR CHIKKALA
+ROLL NO                                                : 19EE10019
+DEPARTMENT                                       : ELECTRICAL ENGINEERING (4 YR)
+PROJECT NAME                                    : CANTEEN MANAGEMENT
+*/ 
+#include <iostream>
 #define N 9
 using namespace std;
 void print(int arr[N][N])
